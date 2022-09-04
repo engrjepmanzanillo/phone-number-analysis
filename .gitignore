@@ -1,0 +1,5 @@
+bin/
+obj/
+HELP.md
+HINTS.md
+.vscode/
